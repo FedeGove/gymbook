@@ -4,7 +4,7 @@ Un'applicazione web per la gestione e prenotazione di corsi in palestra,
 sviluppata in PHP e MySQL.
 
 ## 🌐 Demo
-[Vedi il sito live](https://tuonome.altervista.org)
+[Vedi il sito live](https://gymbook.altervista.org)
 
 ## ✨ Funzionalità
 - Registrazione e login utenti con password cifrata
