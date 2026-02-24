@@ -25,4 +25,4 @@ sviluppata in PHP e MySQL.
 - bookings — prenotazioni con stato confirmed/cancelled
 
 ## 👤 Autore
-Federico Governatori — [LinkedIn](https://linkedin.com/in/federicogovernatori)
+Federico Governatori — [LinkedIn](https://www.linkedin.com/in/federico-governatori-954433302/)
