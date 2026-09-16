@@ -1,9 +1,9 @@
 <?php
 
-$db_host = getenv('DB_HOST') ?: 'localhost';
-$db_user = getenv('DB_USER') ?: 'root';
-$db_pass = getenv('DB_PASS') ?: 'root';
-$db_name = getenv('DB_NAME') ?: 'gymbook';
+$db_host = 'localhost';
+$db_user = 'root';
+$db_pass = '';
+$db_name = 'gymbook';
 
 try {
     $pdo = new PDO(
@@ -16,5 +16,5 @@ try {
     $pdo->setAttribute(PDO::ATTR_DEFAULT_FETCH_MODE, PDO::FETCH_ASSOC);
 
 } catch (PDOException $e) {
-    die("Connection failed.");
+    die("Database connection failed.");
 }
