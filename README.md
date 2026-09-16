@@ -4,9 +4,19 @@ GymBook è un'applicazione web sviluppata in PHP e MySQL per la gestione e preno
 
 Il progetto permette agli utenti di registrarsi, effettuare il login, visualizzare i corsi disponibili e prenotarsi. È presente anche un pannello amministratore per la gestione dei corsi e delle prenotazioni.
 
-## 🌐 Demo
+## 📸 Screenshot
 
-👉 [Vedi il sito live](https://gymbook.altervista.org)
+### Homepage
+
+![Homepage](screenshots/homepage.png)
+
+### Corsi
+
+![Corsi](screenshots/corsi.png)
+
+### Pannello amministratore
+
+![Admin](screenshots/admin.png)
 
 ## ✨ Funzionalità
 
